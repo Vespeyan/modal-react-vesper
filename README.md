@@ -20,7 +20,7 @@
 
 <code>
 
-    <Modal isShowing={isShowing} close={() => setIsShowing(false)}/>
+    <Modal isShowing={isShowing} close={() => setIsShowing(false)} text="Your text"/>
 
 </code>
 
